@@ -1,4 +1,4 @@
-# Airbnb Seattle Data Visualization (2016)
+# Airbnb Seattle Data Visualization 2016
 Welcome to the Airbnb Seattle Data Visualization project! This repository contains Tableau visualizations for analyzing Airbnb listings in Seattle for the year 2016. The visualizations provide insights into various aspects of the Airbnb market, including prices, revenue, and bedroom listings.
 
 
